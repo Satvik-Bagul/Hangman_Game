@@ -1,6 +1,8 @@
 # Hangman
 <pre>
-A terminal-based interactive Hangman game implemented in Python. This project demonstrates core computer science concepts such as modular programming, data structures, input validation, control flow, and algorithmic logic, while providing an engaging word-guessing experience.
+A terminal-based interactive Hangman game implemented in Python. This project demonstrates 
+core computer science concepts such as modular programming, data structures, input validation, 
+control flow, and algorithmic logic, while providing an engaging word-guessing experience.
 
 Features:
   Random Phrase Selection:
